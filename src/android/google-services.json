@@ -6,7 +6,8 @@
     "storage_bucket": "dynamiclinks-8f134.appspot.com"
   },
   "client": [
-        {
+    
+    {
       "client_info": {
         "mobilesdk_app_id": "1:144658768077:android:685f43ac0ccf828e",
         "android_client_info": {
@@ -14,6 +15,14 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "144658768077-35jmne8sm87rlb980q800io42qsmrps5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fbtestapp.v",
+            "certificate_hash": "E760B2C8A663C0E0D8A079D32437F2FB3840BCA2"
+          }
+        },
         {
           "client_id": "144658768077-0hji1aqk1mk74apu0t5vsh8g53472hl8.apps.googleusercontent.com",
           "client_type": 3
@@ -26,11 +35,13 @@
       ],
       "services": {
         "analytics_service": {
-          "status": 1
+          "status": 2
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            
+          ]
         },
         "ads_service": {
           "status": 2
