@@ -38,7 +38,7 @@
           "status": 2
         },
         "appinvite_service": {
-          "status": 2,
+          "status": 1,
           "other_platform_oauth_client": [
             
           ]
